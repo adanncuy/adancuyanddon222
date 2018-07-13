@@ -1,2 +1,0 @@
-
-[ Jumat, 27 - 04 - 2018 | 16:56:36 ] EOF occurred in violation of protocol (_ssl.c:833)
